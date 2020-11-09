@@ -1,0 +1,16 @@
+D:\Vignesh_Excercise\venv\Scripts\python.exe D:/Vignesh_Excercise/cora_fin.py
+    user_id problem_id  ...      rank registration_time_seconds
+0  user_232  prob_6507  ...  beginner                1432110935
+1  user_232  prob_5071  ...  beginner                1432110935
+2  user_232   prob_703  ...  beginner                1432110935
+3  user_232  prob_3935  ...  beginner                1432110935
+4  user_232   prob_164  ...  beginner                1432110935
+
+[5 rows x 16 columns]
+X_train.shape: (155295, 50)
+y_train.shape: (155295,)
+test.shape: (66555, 50)
+f1-score for Train : 0.9019709637871561
+f1-score for Test : 0.5547092160583876
+
+Process finished with exit code 0
